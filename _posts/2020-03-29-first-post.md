@@ -15,6 +15,6 @@ last_modified_at: 2020-03-29T08:54:00-05:00
 일단 올려보는 거라서 별 말은 안적을게, 흐.
 
 
-개행은 여전히 했갈리고, categories 칭구로 subdirectory를 나타낼 수 있나봐.
+개행은 여전히 헷갈리고, categories 칭구로 subdirectory를 나타낼 수 있나봐.
 
 그리고 excerpt 칭구는 부제같은 역할을 하는 모양이야.
