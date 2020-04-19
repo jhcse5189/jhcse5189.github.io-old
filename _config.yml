@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Bammer's Looptop"
 title_separator          : "-"
-subtitle                 : "sub-is-where"
+subtitle                 : "Un esprit sain dans un corps sain."
 name                     : "Hyeonseo Jo"
 description              : "An 으메이징 website."
 url                      : "https://jhcse5189.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -85,9 +85,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google-gtag # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-163940972-1"
     anonymize_ip         : # true, false (default)
 
 
