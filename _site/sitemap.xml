@@ -5,6 +5,13 @@
 <lastmod>2020-03-29T22:54:00+09:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/notes/test-post/</loc>
+<lastmod>2020-04-20T08:05:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 </urlset>

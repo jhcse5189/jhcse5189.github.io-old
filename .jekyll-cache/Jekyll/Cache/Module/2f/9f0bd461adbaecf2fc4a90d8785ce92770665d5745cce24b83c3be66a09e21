@@ -1,4 +1,4 @@
-I"Ô
+I"S
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -6,11 +6,19 @@
       <nav id="site-nav" class="greedy-nav">
         
         <a class="site-title" href="/">
-          Bammer's Github Blog
-          
+          Bammer's Looptop
+          <span class="site-subtitle">sub-is-where</span>
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/">Quick-Start Guide</a>
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="https://jhcse5189.github.io/portfolio/">Portfolio</a>
+            </li><li class="masthead__menu-item">
+              <a href="/notes/">Notes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">

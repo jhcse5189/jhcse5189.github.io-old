@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bammer's Github Blog"
+title                    : "Bammer's Looptop"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "sub-is-where"
 name                     : "Hyeonseo Jo"
 description              : "An 으메이징 website."
 url                      : "https://jhcse5189.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -93,30 +93,28 @@ analytics:
 
 # Site Author
 author:
-  name             : "My Name, NOT yours"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Hyeonseo Jo"
+  avatar           : "/assets/images/bio-test.jpg"
   bio              : "I am an **으메이징** person."
   location         : "Ttuk-island 5th floor"
-  email            : "jhcse5189@gmail.com"
+  email            : 
   links:
-    - label: "Email"
+    - label: "jhcse5189@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:jhcse5189@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/jhcse5189/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/jhs5189/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/profile.php?id=100007132359594"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jhcse5189/"
+
 
 # Site Footer
 footer:
