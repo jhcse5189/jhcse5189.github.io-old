@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Bammer's Looptop"
 title_separator          : "-"
-subtitle                 : "sub-is-where"
+subtitle                 : "Un esprit sain dans un corps sain."
 name                     : "Hyeonseo Jo"
 description              : "An 으메이징 website."
 url                      : "https://jhcse5189.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
