@@ -1,8 +1,7 @@
 ---
-permalink: /about/
 title: "About"
 excerpt: "I am an **으메이징** person."
-author_profile: true
+permalink: /about/
 ---
 
 ## Notable Features
@@ -10,7 +9,7 @@ author_profile: true
 - 뚝'섬'의 어느 5층 건물에 산다.
 - 자기가 무슨 '섬'에 사는 줄 안다.
 
-[그냥 버튼](https://github.com/jhcse5189/)
+[그냥 구글링이나 하세요 ㅡㅡ;](https://www.google.com/)
 
 ## History
 
