@@ -5,6 +5,12 @@ var store = [{
         "url": "http://localhost:4000/blog/first-post/",
         "teaser": null
       },{
+        "title": "이건 프랑스어 category로 가야만 해",
+        "excerpt":"J’aime le café!  ","categories": ["French"],
+        "tags": ["Others","Foreign Language","French"],
+        "url": "http://localhost:4000/french/french-post/",
+        "teaser": null
+      },{
         "title": "Test post",
         "excerpt":"아.아.  ","categories": ["notes"],
         "tags": [],
