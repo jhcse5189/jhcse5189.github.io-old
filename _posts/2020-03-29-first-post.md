@@ -1,10 +1,6 @@
 ---
-title: "github.io blog first-post"
+title: "First Post"
 excerpt: "뭐라도 적어보자"
-categories:
-  - blog
-tags:
-  - blog
 toc: true
 last_modified_at: 2020-03-29T08:54:00-05:00
 ---
