@@ -16,3 +16,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# documentation links
+posts:
+  - title: Getting Started
+    children:
+      - title: "About"
+        url: /about/
+      - title: "Notes"
+        url: /notes/

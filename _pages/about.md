@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "I am an **으메이징** person."
+author_profile: true
 ---
 
 ## Notable Features
