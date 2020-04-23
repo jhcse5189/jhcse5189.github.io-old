@@ -1,6 +1,6 @@
 ---
-title: "#6 Computer Graphics | Viewing, Projection"
-excerpt: "empty excerpt"
+title: "#6 Computer Graphics &#124; Viewing, Projection"
+excerpt: "class for April 20, 10:00 ~ 12:00"
 categories:
   - Computer Graphics
 tags:
@@ -9,4 +9,4 @@ toc: true
 last_modified_at: 2020-04-20T12:30:00-05:00
 ---
 
-init.
+empty.
